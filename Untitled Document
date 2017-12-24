@@ -1,1 +1,0 @@
-gcc queue.c order.c menu_item.c  main.c -pthread -o test1
